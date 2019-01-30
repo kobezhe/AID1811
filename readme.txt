@@ -4,7 +4,12 @@
 =======
 2. 方案2  bbbbbbbbbbbbbbbbbbbbb
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 =======
 
 Jame add JJJJJJJ
 >>>>>>> Jame_dev
+=======
+
+Tom add TTTTTT
+>>>>>>> Tom_dev
